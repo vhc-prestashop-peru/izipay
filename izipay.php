@@ -244,6 +244,6 @@ class Izipay extends PaymentModule
 
     public function hookDisplayPaymentReturn()
     {
-        die("hookDisplayPaymentReturn => Place your code here")
+        die("hookDisplayPaymentReturn => Place your code here");
     }
 }

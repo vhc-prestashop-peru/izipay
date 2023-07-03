@@ -10,4 +10,4 @@ Integrate you Prestashop Store with Izipay follwing this steps
 
 ### Support
 
-- Victor Castro [Github](https://github.com/victorcastro)
+- Victor Castro 👉🏼 [Github](https://github.com/victorcastro)
